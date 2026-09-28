@@ -1,0 +1,6 @@
+{
+  "name": "8-Bit Life RPG: El Juego de la Vida",
+  "description": "Juego de mesa retro de 8 bits inspirado en El Juego de la Vida con progresión RPG, árbol de talentos, audio chiptune, tablero táctil y sincronización en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
